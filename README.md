@@ -1,7 +1,7 @@
 # my_irc
 
 ### TEAM WORK
-En collaboration avec [Victor Reyes](https://github.com/reyesvictor) : [https://github.com/reyesvictor](https://github.com/reyesvictor)
+Fini en 5 jours, en collaboration avec [Victor Reyes](https://github.com/reyesvictor) : [https://github.com/reyesvictor](https://github.com/reyesvictor)
 
 
 ### RESTRICTIONS
