@@ -1,7 +1,7 @@
 # my_irc
 
 ### TEAM WORK
-En collaboration avec [Antonio Tina](https://github.com/antoniotina) : [https://github.com/antoniotina](https://github.com/antoniotina)
+En collaboration avec [Victor Reyes](https://github.com/reyesvictor) : [https://github.com/reyesvictor](https://github.com/reyesvictor)
 
 
 ### RESTRICTIONS
